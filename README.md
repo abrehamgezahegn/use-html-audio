@@ -1,6 +1,6 @@
 # use-html-audio
 
-A react custom hook for html audio player purpose.
+A react custom hook for html audio player purpose with queue support.
 
 ## Install
 
